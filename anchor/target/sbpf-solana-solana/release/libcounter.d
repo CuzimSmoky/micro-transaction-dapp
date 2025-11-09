@@ -1,1 +1,0 @@
-/home/smoky/Schreibtisch/github/solana-projects/micro-transaction-dapp/anchor/target/sbpf-solana-solana/release/libcounter.rlib: /home/smoky/Schreibtisch/github/solana-projects/micro-transaction-dapp/anchor/programs/counter/src/lib.rs
